@@ -1,5 +1,16 @@
-# Hifz Mushaf
+# \# What Is This?
 
-Hifz Mushaf helps you check your memorization by showing you blanks in the mushaf.
 
-The Qur'an text is from the 15 line Mushaf.
+
+This repo contains a Kotlin app for creating Qur'an (mushaf) applications. Default functionality includes:
+
+
+
+* Scrollable list of surahs
+* Scrollable and swipeable pages
+* Remember your last reading spot and continue automatically
+
+
+
+Feel free to clone it and make your own applications. Feel free to also contribute general features to it.
+
